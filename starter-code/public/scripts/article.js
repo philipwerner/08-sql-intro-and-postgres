@@ -1,7 +1,7 @@
 'use strict';
 
 function Article (rawDataObj) {
-  /* REVIEW: This is a new construct to save all the properties of rawDataObj into our newly
+  /* REVIEW: This is a new constructor to save all the properties of rawDataObj into our newly
 instantiated object. Object.keys is a function that returns an array of all the properties
 of an object as strings. forEach is an array method that iterates over and calls a function on
 each element of an array.
